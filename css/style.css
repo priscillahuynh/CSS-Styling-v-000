@@ -8,5 +8,6 @@ p {
 figcaption {
   font-weight: normal;
   font-size: 1.5em;
-  line-height: 
+  line-height: 1.5em;
+  font-family: Georgia
 }

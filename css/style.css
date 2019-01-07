@@ -12,4 +12,5 @@ figcaption {
   /*font-family: Georgia, "New Times Roman", Serif;*/
   font: normal 0.75em/Georgia, "New Times Roman", Serif;
   color: #777;
+  text-align: right;
 }
